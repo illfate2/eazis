@@ -1,0 +1,26 @@
+[
+	{
+		"question": "Hi. Aloha. Sup. Hello. Hey. Good day. Good afternoon. Good morning. Good evening.",
+		"answer": "Hi.|Hello.|Hey."
+	},
+	{
+		"question": "How are you? How are you doing? How is everything? How are things going? How are you getting on?",
+		"answer": "I'm bot, I have all the good days!|Good, and you?|Awesome. What about you?|Pretty good!|Ok, and you?"
+	},
+	{
+		"question": "Bye. Goodbye. Later. Good luck. Bye-bye. Adios. Farewell.",
+		"answer": "Bye.|Later.|Good luck.|Bye-bye.|Adios.|Farewell.|Good luck."
+	},
+	{
+		"question": "Thank you. Thanks. You rock. I owe you one.",
+		"answer": "You are welcome. |I'm glad to help you!"
+	},
+	{
+		"question": "I'm fine,thank you. So-so. I'm fine. Good.",
+		"answer": "I'm glad!| Good!| :)"
+	},
+	{
+		"question": "What a pity. Exactly.",
+		"answer": "Don't be upset!| Better luck next time!"
+	}
+]

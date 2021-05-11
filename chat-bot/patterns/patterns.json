@@ -1,0 +1,86 @@
+[
+  {
+    "name": "architecture",
+    "items": [
+      "Monolithic architecture",
+      "Microservice architecture"
+    ]
+  },
+  {
+    "name": "decomposition",
+    "items": [
+      "Decompose by business capability",
+      "Decompose by subdomain",
+      "Self-contained Service",
+      "Service per team"
+    ]
+  },
+  {
+    "name": "refactoring",
+    "items": [
+      "Strangler Application",
+      " Anti-corruption layer"
+    ]
+  },
+  {
+    "name": "data management",
+    "items": [
+      "Database per Service",
+      "Shared database",
+      "Saga",
+      "API Composition",
+      "CQRS",
+      "Domain event",
+      "Event sourcing"
+    ]
+  },
+  {
+    "name": "transactional messaging",
+    "items": [
+      "Transactional outbox",
+      "Transaction log tailing",
+      "Polling publisher"
+    ]
+  },
+  {
+    "name": "Testing",
+    "items": [
+      "Service test",
+      "Component test",
+      "Consumer-driven contract test",
+      "Consumer-side contract test"
+    ]
+  },
+  {
+    "name": "deployment patterns",
+    "items": [
+      "Multiple service instances per host",
+      "Service instance per host",
+      "Service instance per VM",
+      "Service instance per Container",
+      "Serverless deployment",
+      "Service deployment platform",
+      "Cross cutting concerns"
+    ]
+  },
+  {
+    "name": "communication style",
+    "items": [
+      "Remote Procedure",
+      "Domain-specific protocol",
+      "Idempotent consumer"
+    ]
+  },
+  {
+    "name": "observability",
+    "items": [
+      "Log aggregation",
+      "Application metrics",
+      "Audit logging",
+      "Distributed tracing",
+      "Exception tracking",
+      "Health check API",
+      "Log deployments and changes"
+    ]
+  }
+]
